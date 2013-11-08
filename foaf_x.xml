@@ -1,0 +1,254 @@
+<?xml version='1.0'?>
+<!--  If you are running a bot please visit this policy page outlining rules you must respect. http://lj.rossia.org/bots/  --><rdf:RDF
+   xml:lang="en"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <foaf:Person>
+    <foaf:nick>tyumen_kender</foaf:nick>
+    <foaf:dateOfBirth>1981-04-04</foaf:dateOfBirth>
+    <foaf:mbox_sha1sum>c504014e4c379fe30885736618c8d92dd4641aba</foaf:mbox_sha1sum>
+    <foaf:page>
+      <foaf:Document rdf:about="http://lj.rossia.org/userinfo.bml?user=tyumen_kender">
+        <dc:title>LJ.Rossia.org Profile</dc:title>
+        <dc:description>Full LJ.Rossia.org profile, including information such as interests and bio.</dc:description>
+      </foaf:Document>
+    </foaf:page>
+    <foaf:jabberID>tyumenkender@inventati.org</foaf:jabberID>
+    <foaf:weblog rdf:resource="http://lj.rossia.org/users/tyumen_kender/"/>
+    <foaf:interest dc:title="sex-drugs-rock-n-roll" rdf:resource="http://lj.rossia.org/interests.bml?int=sex-drugs-rock-n-roll" />
+    <foaf:interest dc:title="sux-bugz-plug-n-play" rdf:resource="http://lj.rossia.org/interests.bml?int=sux-bugz-plug-n-play" />
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>fagot</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/fagot/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/fagot/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>papa_supermenov</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/papa_supermenov/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/papa_supermenov/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>bgshurik</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/bgshurik/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/bgshurik/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>3oranges</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/3oranges/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/3oranges/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>ash_rabbi</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/ash_rabbi/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/ash_rabbi/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>karlfisher</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/karlfisher/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/karlfisher/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>toupie</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/toupie/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/toupie/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>leit</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/leit/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/leit/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>tupikin</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/tupikin/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/tupikin/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>svintusoid</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/svintusoid/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/svintusoid/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>analgetik</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/analgetik/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/analgetik/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>female</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/female/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/female/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>dimkin</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/dimkin/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/dimkin/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>murella</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/murella/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/murella/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>livasprava</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/livasprava/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/livasprava/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>helga_petrova</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/helga_petrova/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/helga_petrova/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>anarchokiddy</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/anarchokiddy/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/anarchokiddy/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>grua</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/grua/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/grua/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>katherine_kinn</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/katherine_kinn/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/katherine_kinn/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>phantom</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/phantom/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/phantom/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>chernysh</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/chernysh/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/chernysh/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>svonz</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/svonz/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/svonz/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>sergey_fomichov</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/sergey_fomichov/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/sergey_fomichov/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>aik</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/aik/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/aik/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>natan</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/natan/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/natan/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>anarchofront</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/anarchofront/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/anarchofront/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>magda</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/magda/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/magda/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>alek_epstein</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/alek_epstein/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/alek_epstein/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>tiphareth</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/tiphareth/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/tiphareth/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>just_me</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/just_me/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/just_me/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>pablo</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/pablo/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/pablo/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>luchist</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/luchist/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/luchist/"/>
+      </foaf:Person>
+    </foaf:knows>
+    <foaf:knows>
+      <foaf:Person>
+        <foaf:nick>grasskiller</foaf:nick>
+        <rdfs:seeAlso rdf:resource="http://lj.rossia.org/users/grasskiller/data/foaf" />
+        <foaf:weblog rdf:resource="http://lj.rossia.org/users/grasskiller/"/>
+      </foaf:Person>
+    </foaf:knows>
+  </foaf:Person>
+</rdf:RDF>
